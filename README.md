@@ -1,8 +1,6 @@
-# Hardhat DeFi
+# Defi Aave Lending borrowing implementation
 
-This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
-
--   [Hardhat DeFi](#hardhat-defi)
+-   [Defi Aave Lending borrowing implementation](#Defi-Aave-Lending-borrowing-implementation)
 -   [Getting Started](#getting-started)
     -   [Requirements](#requirements)
     -   [Quickstart](#quickstart)
